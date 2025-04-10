@@ -19,6 +19,7 @@ Graduado em Banco de dados na Estácio, com +4 anos de experiência em dados. At
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Azure-FF5C83?style=for-the-badge&logo=Azure&logoColor=blue)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Kafka-FF5C83?style=for-the-badge&logo=Spark&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Git](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 ![Git](https://img.shields.io/badge/Spark-FF5C83?style=for-the-badge&logo=Spark&logoColor=white)
